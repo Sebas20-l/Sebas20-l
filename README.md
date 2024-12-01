@@ -26,7 +26,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,github,linux,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,discord,github,linux,py,vscode, c++" />
   </a>
 </p>
 
