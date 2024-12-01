@@ -13,7 +13,7 @@
 
 - :school: I am a student of information technologies and telecommunications at Ulsa University.
 - 🧢: I am in the third semester of my degree
-- :technologist: program in python and c++
+- :technologist: program in python 
 - :computer: I like to program video games
 - :nerd_face: Always learning new things.
 <br>
@@ -26,7 +26,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,github,linux,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,discord,github,linux,py,vscode,c++" />
   </a>
 </p>
 
